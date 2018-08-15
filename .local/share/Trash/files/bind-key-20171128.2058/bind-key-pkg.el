@@ -1,0 +1,1 @@
+(define-package "bind-key" "20171128.2058" "A simple way to manage personal keybindings" 'nil :commit "f6dbfed2732c26e6631412bb865b55f99d0240ad" :url "https://github.com/jwiegley/use-package" :keywords '("keys" "keybinding" "config" "dotemacs"))

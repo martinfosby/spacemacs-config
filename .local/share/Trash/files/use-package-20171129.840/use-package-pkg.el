@@ -1,0 +1,1 @@
+(define-package "use-package" "20171129.840" "A use-package declaration for simplifying your .emacs" '((emacs "24.3") (bind-key "1.0")) :commit "5726c93730eb96c1f298cade2ab8b8772de06e3b" :url "https://github.com/jwiegley/use-package" :keywords '("dotemacs" "startup" "speed" "config" "package"))
